@@ -107,12 +107,6 @@ Together, we build smarter and more inclusive AI technologies.
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheSmartTechnologyLab&theme=tokyonight&hide_border=true&ring=00D4FF&fire=00D4FF" alt="GitHub Streak Stats" />
-</div>
-
----
-
-<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Empowering+Intelligent+Systems+Through+Open+Research;Democratizing+AI+Knowledge+and+Tools;Thank+You+for+Exploring+Smart+Technology+Lab!" alt="Closing Typing SVG" />
 </div>
 
